@@ -33,7 +33,7 @@ To create a new project using this template, follow these steps:
     cd your_project_name
     ```
 
-5. Initialize a new Git repository:
+5. Push the updated repository:
     ```bash
     git add .
     git commit -m "commit after cookiecutter project creation"
